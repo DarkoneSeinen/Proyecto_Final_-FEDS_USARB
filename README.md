@@ -21,7 +21,8 @@ Este proyecto es una aplicación de escritorio desarrollada como parte de la mat
 
 ## Autor
 
-**Diego Alejandro Moreno Pelaez**
+**DarkOne Seinen**
+- Hecho para: Diego Alejandro Moreno Pelaez
 
 ---
 
