@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una aplicación de escritorio desarrollada como parte de la materia **Fundamento de Diseño de Software**. El objetivo es gestionar la información y operaciones de una clínica, permitiendo la administración de pacientes, médicos, recepcionistas y citas médicas.
+Este proyecto es una aplicación de escritorio desarrollada por un experto, para la materia **Fundamento de Diseño de Software** de un estudiante de la Universidad Sergio Arboleda. El objetivo es gestionar la información y operaciones de una clínica, permitiendo la administración de pacientes, médicos, recepcionistas y citas médicas.
 
 ## Tecnologías Utilizadas
 
